@@ -1,0 +1,10 @@
+﻿  Payment.cpp
+Y:\Programming\Projects\Projects OOP\Lab1.8OOP\Lab1.8OOP\Payment.cpp(164,12): warning C4018: '>': signed/unsigned mismatch
+Y:\Programming\Projects\Projects OOP\Lab1.8OOP\Lab1.8OOP\Payment.cpp(197,13): warning C4018: '>': signed/unsigned mismatch
+Y:\Programming\Projects\Projects OOP\Lab1.8OOP\Lab1.8OOP\Payment.cpp(302,12): warning C4018: '<': signed/unsigned mismatch
+Y:\Programming\Projects\Projects OOP\Lab1.8OOP\Lab1.8OOP\Payment.cpp(329,15): warning C4018: '>': signed/unsigned mismatch
+Y:\Programming\Projects\Projects OOP\Lab1.8OOP\Lab1.8OOP\Payment.cpp(344,15): warning C4018: '>': signed/unsigned mismatch
+  Source.cpp
+  Generating Code...
+Y:\Programming\Projects\Projects OOP\Lab1.8OOP\Lab1.8OOP\Payment.cpp(253): warning C4715: 'Payment::Date::IsLaterThan': not all control paths return a value
+  Lab1.8OOP.vcxproj -> Y:\Programming\Projects\Projects OOP\Lab1.8OOP\Debug\Lab1.8OOP.exe
